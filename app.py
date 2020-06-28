@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 
 DATA_URL = (
-    "/home/cicada/Downloads/rhyme/streamlit-sentiment/Tweets.csv"
+    "C:/Users/Rohit/Documents/Self Learning/streamlit-sentiment-dashboard/Tweets.csv"
 )
 
 st.title("Sentiment Analysis of Tweets about US Airlines")
